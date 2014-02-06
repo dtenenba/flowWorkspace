@@ -1,4 +1,4 @@
-Package: flowWorkspace
+Package: flowWorkspace CHANGE
 Type: Package
 Title: Import flowJo Workspaces into BioConductor and replicate flowJo gating
     with flowCore
